@@ -5,11 +5,11 @@
  - Data on two years of bike-share metrics including: weather, registered and casual riders, and dates.
  - Can this data help predict the demand for bikes?
  - Contents
-   -[602_HW1_Bike.pynb : EDA and first looks](https://github.com/marcelthebridge/Data-602-Linear-Regression-Model-HW1/blob/master/602_HW1_Bike.ipynb)
-   -[602_HW1_Report.ipynb : Streamlined report](https://github.com/marcelthebridge/Data-602-Linear-Regression-Model-HW1/blob/master/602_HW1_Report.ipynb)
-   -[Bikeshare.csv : Dataset](https://github.com/marcelthebridge/Data-602-Linear-Regression-Model-HW1/blob/master/Bikeshare.csv)
-   -[README.md : Readme file](https://github.com/marcelthebridge/Data-602-Linear-Regression-Model-HW1/blob/master/README.md)
- 
+    * [602_HW1_Bike.pynb : EDA and first looks](https://github.com/marcelthebridge/Data-602-Linear-Regression-Model-HW1/blob/master/602_HW1_Bike.ipynb)
+    * [602_HW1_Report.ipynb : Streamlined report](https://github.com/marcelthebridge/Data-602-Linear-Regression-Model-HW1/blob/master/602_HW1_Report.ipynb)
+    * [Bikeshare.csv : Dataset](https://github.com/marcelthebridge/Data-602-Linear-Regression-Model-HW1/blob/master/Bikeshare.csv)
+    * [README.md : Readme file](https://github.com/marcelthebridge/Data-602-Linear-Regression-Model-HW1/blob/master/README.md)
+  
  
  ## Goals
  - To create a model capable of predicting bike needs over a yearly forecast 
