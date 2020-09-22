@@ -5,11 +5,6 @@
  - Data on two years of bike-share metrics including: weather, registered and casual riders, and dates.
  - Can this data help predict the demand for bikes?
  
- ## Inquiry and features
- - 
- -
- -
- -
  
  ## Data
  - Data is from DC BikeShare, and originially retrieved from [Kaggle](https://www.kaggle.com/poornimakeshavaiah/bikesharing)
